@@ -9,6 +9,7 @@ To resolve IniTech Solutions' crisis, it would be best to create a system where 
 <img width="322" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/3f2a316f-206b-4790-8d48-a6ad67dad759">
 
 # Infrastructure Architecture
+
 ## Network Topology
 ![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/2da07f7a-b957-4e75-90ab-c036ca74d39e)
 
