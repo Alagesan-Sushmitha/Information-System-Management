@@ -22,7 +22,6 @@ To resolve IniTech Solutions' crisis, it would be best to create a system where 
 ## Business Function 1 - Serialized asset tracking
 A computerized asset management system can help with asset management, maintenance operations simplification, and project administration and planning. A centralized software solution that connects with existing systems to aggregate data collection from physical asset regardless of make, model, or manufacturer into one place. It also helps the businesses expedite asset management and decrease human error. Additionally, businesses will gain complete asset visibility including location, status, and usage history, using a single web-based dashboard that enables for quick search and tag filtering.
 
-### Process Map
 
 <img width="1034" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/a53411cd-28a6-4d07-824f-a4c9b299b802">
 
@@ -31,7 +30,6 @@ A computerized asset management system can help with asset management, maintenan
 ## Business Function 2 - Stockroom Management
 A serialized asset can be stored in a unique storage location defined by a building and room. An effective inventory management approach results in a well-organized stockroom management center. A well-organized warehouse improves the efficiency of present and future fulfillment strategies. This includes cost savings and improved product quality for companies that employ warehouses to manage inventories.
 
-### Process Map
 
 ![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/51a83997-9fd2-418b-8a69-5df256520dd9)
 
@@ -40,7 +38,6 @@ A serialized asset can be stored in a unique storage location defined by a build
 ## Business Function 3 - ITAM Process
 The request and fulfillment process is a management procedure that touches every other function since it requires data updates in the central repository once the request is reviewed by another team. Stakeholders have five primary functions.
 
-### Process Map
 
 ![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/68fd93b1-dce3-4e99-ac6c-aea8d080f2d1)
 
@@ -49,38 +46,37 @@ The request and fulfillment process is a management procedure that touches every
 ## Business Function 4 - Security Process
 The goal of security management is to maintain high-level security to every function and separate the access of function to various roles based on the stakeholder level of authority. This is done to ensure that the underlying sensitive data is kept as secure as possible. 
 
-### Process Map
 
 ![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/c48b73d5-0191-4349-a122-8f4a2f6276b9)
 
 
 # User Interface
 ## Wireframe 1: GUI for Asset Management System (Security Process)
-### User Registration
 
-<img width="484" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/b81617aa-fe69-49ec-af48-9bd09cc213b5">
-<img width="464" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/383c9036-98f1-4998-ab68-66cbb3fa3447">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/13a9670f-4ff3-4b88-92f1-0491879bd90e)
 
-### Login Page
 
-<img width="472" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/fe62e77d-db6d-44a2-ba4a-5f91e4fc19d0">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/d8f0e860-d2a4-44fc-bc86-3b64c4d3eee0)
 
-### Two Factor Authentication
 
-<img width="467" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/c2937898-0d8f-4ec4-941e-76b3f19d3f51">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/7521a963-6f8c-427a-a2fd-f2c7b2c7a836)
 
-### Home Page
-<img width="462" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/b0806210-d444-43f4-82e1-cca05c9518f2">
+
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/97d64263-4b92-48b9-8ecd-12dd770a66c5)
+
+
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/38386513-3ec6-4eda-90ab-eac9b2d2d8af)
+
 
 ## Wireframe 2: Asset Tracking Dashboard 
 
-<img width="469" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/f71c8373-b8cd-4502-a0de-c847a7513a3f">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/4b9978e5-2468-4618-a847-3fb437c8d853)
+
 
 ## Wireframe 3: Stockroom Management
 
-### Stockroom Entry User Interface
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/f488d052-4175-419f-b39e-484dea44e359)
 
-<img width="461" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/aeeef851-e112-49fe-b0d3-bbb7a8846990">
 
 ## Wireframe 4: ITAM Process - Asset Entry
 
