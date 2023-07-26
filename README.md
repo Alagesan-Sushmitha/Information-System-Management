@@ -11,12 +11,13 @@ To resolve IniTech Solutions' crisis, it would be best to create a system where 
 # Infrastructure Architecture
 
 ## Network Topology
-![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/2da07f7a-b957-4e75-90ab-c036ca74d39e)
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/a6ecde62-d48d-44fe-8b64-847e22c49abd)
+
 
 
 # Entity Relationship Diagram
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/6f180d60-2ebc-4437-b618-37a87c7f761b)
 
-![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/bba83a80-1164-45e9-875f-2fe374ad7323)
 
 
 # Business Function
