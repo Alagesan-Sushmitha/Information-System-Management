@@ -80,33 +80,30 @@ The goal of security management is to maintain high-level security to every func
 
 ## Wireframe 4: ITAM Process - Asset Entry
 
-### Asset Entry User Interface
-<img width="337" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/38b82bd4-c74e-4978-9c24-2c5510fcd373">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/859aade2-0ddd-4476-9cbb-1687db1c8ca0)
+
 
 ## Wireframe 5: ITAM Process - Asset Request
 
-### Asset Request user interface
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/dde16bfb-3185-421b-829c-00e4fddbc703)
 
-<img width="332" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/44f13146-a289-4919-8885-2f9a4c57268f">
 
 ## Wireframe 6: ITAM Process – Asset Fulfillment Request
  
-### Asset Fulfillment user interface
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/a1f9bdc1-4fea-4303-bde7-028f6af17294)
 
-<img width="305" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/c7e0eb7d-0a02-406e-8429-24cc9bef26f7">
 
 ## Wireframe 7: ITAM Process – Support
 
-### Support Process user interface
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/1dad5a1d-d4ef-4df7-945c-027294b7d355)
 
-<img width="341" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/c8062bcf-71fe-4914-addc-d367313858ab">
 
 ## Wireframe 8: ITAM Process – Asset Retirement
 
-### Retirement process user interface
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/cc45ffc5-ba49-4684-b41d-01131b60f984)
 
-<img width="306" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/c7de0d08-e72e-4e1d-af0d-58c2d9b3fc29">
 
 ### Wireframe 9: ITAM Process Dashboard
 
-<img width="489" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/009a607a-650c-46a0-aede-ff6ef0e02257">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/2cb4da6a-279c-4b77-a860-a1b09b738b07)
+
