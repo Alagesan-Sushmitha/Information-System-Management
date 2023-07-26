@@ -8,45 +8,52 @@ To resolve IniTech Solutions' crisis, it would be best to create a system where 
 # High Level Process Diagram
 <img width="322" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/3f2a316f-206b-4790-8d48-a6ad67dad759">
 
-# Project Plan
-![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/be248a28-3652-4c9c-968a-92c8003ded7e)
-
 # Infrastructure Architecture
 ## Network Topology
-<img width="405" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/0d5637f1-a462-42b6-a1e6-22e23f13a1c8">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/2da07f7a-b957-4e75-90ab-c036ca74d39e)
+
 
 # Entity Relationship Diagram
 
-<img width="482" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/22376c26-7f51-4bbd-aeab-a95d7e7823f2">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/bba83a80-1164-45e9-875f-2fe374ad7323)
+
 
 # Business Function
 
 ## Business Function 1 - Serialized asset tracking
-A computerized asset management system can help with asset management, maintenance operations simplification, and project administration and planning. A centralized software solution that connects with existing systems to aggregate data collection from physical asset regardless of make, model, or manufacturer into one place. It also helps the businesses expedite asset management and decrease human error. Additionally, businesses will gain complete asset visibility including location, status, and usage history, using a single web-based dashboard that enables for quick search and tag filtering. ![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/fe748268-8d86-454c-b951-87f319b70540)
+A computerized asset management system can help with asset management, maintenance operations simplification, and project administration and planning. A centralized software solution that connects with existing systems to aggregate data collection from physical asset regardless of make, model, or manufacturer into one place. It also helps the businesses expedite asset management and decrease human error. Additionally, businesses will gain complete asset visibility including location, status, and usage history, using a single web-based dashboard that enables for quick search and tag filtering.
 
 ### Process Map
-<img width="465" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/04fa6acc-f58d-4b06-81fa-ac42b685e26a">
+
+<img width="1034" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/a53411cd-28a6-4d07-824f-a4c9b299b802">
+
 
 
 ## Business Function 2 - Stockroom Management
-A serialized asset can be stored in a unique storage location defined by a building and room. An effective inventory management approach results in a well-organized stockroom management center. A well-organized warehouse improves the efficiency of present and future fulfillment strategies. This includes cost savings and improved product quality for companies that employ warehouses to manage inventories. ![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/ca03777e-00e7-44f4-a611-8901dc6558b4)
+A serialized asset can be stored in a unique storage location defined by a building and room. An effective inventory management approach results in a well-organized stockroom management center. A well-organized warehouse improves the efficiency of present and future fulfillment strategies. This includes cost savings and improved product quality for companies that employ warehouses to manage inventories.
 
 ### Process Map
-<img width="482" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/e19f8095-a6c4-437b-b218-d88d0de749dd">
+
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/51a83997-9fd2-418b-8a69-5df256520dd9)
+
 
 
 ## Business Function 3 - ITAM Process
 The request and fulfillment process is a management procedure that touches every other function since it requires data updates in the central repository once the request is reviewed by another team. Stakeholders have five primary functions.
 
 ### Process Map
-<img width="468" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/6b3d1425-6dbb-4cb6-a6a0-5f21dc185e13">
+
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/68fd93b1-dce3-4e99-ac6c-aea8d080f2d1)
+
 
 
 ## Business Function 4 - Security Process
 The goal of security management is to maintain high-level security to every function and separate the access of function to various roles based on the stakeholder level of authority. This is done to ensure that the underlying sensitive data is kept as secure as possible. 
 
 ### Process Map
-<img width="449" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/f48da3df-cbad-4961-a2d0-e40906959b9b">
+
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/c48b73d5-0191-4349-a122-8f4a2f6276b9)
+
 
 # User Interface
 ## Wireframe 1: GUI for Asset Management System (Security Process)
