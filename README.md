@@ -6,7 +6,8 @@ Technology
 To resolve IniTech Solutions' crisis, it would be best to create a system where a database of asset information is stored and updated in real-time and can be viewed in an asset portal, on whose dashboard users can submit requests for assets that have already been allocated or request for a new asset, as recommended by IT auditors.
 
 # High Level Process Diagram
-<img width="322" alt="image" src="https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/3f2a316f-206b-4790-8d48-a6ad67dad759">
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/746d4150-467c-411c-b36a-39c541e862fb)
+
 
 # Infrastructure Architecture
 
