@@ -85,7 +85,8 @@ The goal of security management is to maintain high-level security to every func
 
 ## Wireframe 5: ITAM Process - Asset Request
 
-![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/dde16bfb-3185-421b-829c-00e4fddbc703)
+![image](https://github.com/Alagesan-Sushmitha/Information-System-Management/assets/137837229/d5dc3131-ff6d-416f-baac-c63872417878)
+
 
 
 ## Wireframe 6: ITAM Process – Asset Fulfillment Request
