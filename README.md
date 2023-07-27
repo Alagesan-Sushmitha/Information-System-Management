@@ -1,6 +1,6 @@
 # Problem Statement
 IniTech Solutions is experiencing a problem as a result of poor resource management and tracking, which has resulted in issues such as data duplication and mismanagement, preventing them from achieving organization-wide visibility, real-time tracking and reporting, and integration with external sources.
-Technology 
+
 
 # Solution Statement
 To resolve IniTech Solutions' crisis, it would be best to create a system where a database of asset information is stored and updated in real-time and can be viewed in an asset portal, on whose dashboard users can submit requests for assets that have already been allocated or request for a new asset, as recommended by IT auditors.
